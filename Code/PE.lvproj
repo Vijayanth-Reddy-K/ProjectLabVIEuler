@@ -31,6 +31,8 @@
 		<Item Name="11-sub.vim" Type="VI" URL="../11-sub.vim"/>
 		<Item Name="14.vi" Type="VI" URL="../14.vi"/>
 		<Item Name="14-sub.vi" Type="VI" URL="../14-sub.vi"/>
+		<Item Name="12.vi" Type="VI" URL="../12.vi"/>
+		<Item Name="12-sub.vi" Type="VI" URL="../12-sub.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Less Comparable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Less/Less Comparable/Less Comparable.lvclass"/>
