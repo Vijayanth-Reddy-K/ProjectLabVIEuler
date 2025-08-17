@@ -35,6 +35,8 @@
 		<Item Name="12-sub.vi" Type="VI" URL="../12-sub.vi"/>
 		<Item Name="13.vi" Type="VI" URL="../13.vi"/>
 		<Item Name="17.vi" Type="VI" URL="../17.vi"/>
+		<Item Name="15.vi" Type="VI" URL="../15.vi"/>
+		<Item Name="15-DP.vi" Type="VI" URL="../15-DP.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Less Comparable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Less/Less Comparable/Less Comparable.lvclass"/>
@@ -47,6 +49,7 @@
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Delimited String to 1D String Array.vi"/>
+				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Number in Words (recursive).vi" Type="VI" URL="../../../../My Programs/Recreational Stuff/Number in Words (recursive).vi"/>
