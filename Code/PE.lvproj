@@ -37,6 +37,9 @@
 		<Item Name="17.vi" Type="VI" URL="../17.vi"/>
 		<Item Name="15.vi" Type="VI" URL="../15.vi"/>
 		<Item Name="15-DP.vi" Type="VI" URL="../15-DP.vi"/>
+		<Item Name="16-POC.vi" Type="VI" URL="../16-POC.vi"/>
+		<Item Name="16-sub.vi" Type="VI" URL="../16-sub.vi"/>
+		<Item Name="16.vi" Type="VI" URL="../16.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Less Comparable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Less/Less Comparable/Less Comparable.lvclass"/>
@@ -50,6 +53,7 @@
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Delimited String to 1D String Array.vi"/>
 				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
+				<Item Name="Remove Duplicates From 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Remove Duplicates From 1D Array.vim"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Number in Words (recursive).vi" Type="VI" URL="../../../../My Programs/Recreational Stuff/Number in Words (recursive).vi"/>
