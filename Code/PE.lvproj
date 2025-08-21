@@ -32,14 +32,22 @@
 		<Item Name="14.vi" Type="VI" URL="../14.vi"/>
 		<Item Name="14-sub.vi" Type="VI" URL="../14-sub.vi"/>
 		<Item Name="12.vi" Type="VI" URL="../12.vi"/>
+		<Item Name="12-alt.vi" Type="VI" URL="../12-alt.vi"/>
 		<Item Name="12-sub.vi" Type="VI" URL="../12-sub.vi"/>
 		<Item Name="13.vi" Type="VI" URL="../13.vi"/>
 		<Item Name="17.vi" Type="VI" URL="../17.vi"/>
 		<Item Name="15.vi" Type="VI" URL="../15.vi"/>
 		<Item Name="15-DP.vi" Type="VI" URL="../15-DP.vi"/>
 		<Item Name="16-POC.vi" Type="VI" URL="../16-POC.vi"/>
-		<Item Name="16-sub.vi" Type="VI" URL="../16-sub.vi"/>
+		<Item Name="16fail-sub.vi" Type="VI" URL="../16fail-sub.vi"/>
+		<Item Name="16fail.vi" Type="VI" URL="../16fail.vi"/>
 		<Item Name="16.vi" Type="VI" URL="../16.vi"/>
+		<Item Name="16-sub-calc-num-dig.vi" Type="VI" URL="../16-sub-calc-num-dig.vi"/>
+		<Item Name="99.vi" Type="VI" URL="../99.vi"/>
+		<Item Name="29.vi" Type="VI" URL="../29.vi"/>
+		<Item Name="21-sub.vi" Type="VI" URL="../21-sub.vi"/>
+		<Item Name="21.vi" Type="VI" URL="../21.vi"/>
+		<Item Name="22.vi" Type="VI" URL="../22.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Less Comparable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Less/Less Comparable/Less Comparable.lvclass"/>
