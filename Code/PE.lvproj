@@ -48,6 +48,14 @@
 		<Item Name="21-sub.vi" Type="VI" URL="../21-sub.vi"/>
 		<Item Name="21.vi" Type="VI" URL="../21.vi"/>
 		<Item Name="22.vi" Type="VI" URL="../22.vi"/>
+		<Item Name="48.vi" Type="VI" URL="../48.vi"/>
+		<Item Name="45.vi" Type="VI" URL="../45.vi"/>
+		<Item Name="44.vi" Type="VI" URL="../44.vi"/>
+		<Item Name="39-sub.vi" Type="VI" URL="../39-sub.vi"/>
+		<Item Name="39.vi" Type="VI" URL="../39.vi"/>
+		<Item Name="36-sub-palindrome-base-2-check.vi" Type="VI" URL="../36-sub-palindrome-base-2-check.vi"/>
+		<Item Name="36-sub-palindrome-base-10-check.vi" Type="VI" URL="../36-sub-palindrome-base-10-check.vi"/>
+		<Item Name="36.vi" Type="VI" URL="../36.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Less Comparable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Less/Less Comparable/Less Comparable.lvclass"/>
