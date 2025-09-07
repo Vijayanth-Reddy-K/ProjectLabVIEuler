@@ -58,6 +58,11 @@
 		<Item Name="36.vi" Type="VI" URL="../36.vi"/>
 		<Item Name="23.vi" Type="VI" URL="../23.vi"/>
 		<Item Name="35.vi" Type="VI" URL="../35.vi"/>
+		<Item Name="20.vi" Type="VI" URL="../20.vi"/>
+		<Item Name="20-sub-multiplier.vi" Type="VI" URL="../20-sub-multiplier.vi"/>
+		<Item Name="20-sub-2-Num to Array of Digits.vi" Type="VI" URL="../20-sub-2-Num to Array of Digits.vi"/>
+		<Item Name="145.vi" Type="VI" URL="../145.vi"/>
+		<Item Name="145-optim.vi" Type="VI" URL="../145-optim.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Less Comparable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Less/Less Comparable/Less Comparable.lvclass"/>
